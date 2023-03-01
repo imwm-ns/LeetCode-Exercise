@@ -1,2 +1,2 @@
 # LeetCode-Exercise
-All the file in the repository. They have about Programming Skill and Practice Exercise in my free time
+All the files are in the repository. In my spare time, I try to hone my skills as a developer with Leetcode.
