@@ -1,5 +1,6 @@
 import java.util.Vector;
 
+
 public class AreAlmostEqual {
     public static void main(String[] args) {
         System.out.println(areAlmostEqual("bank", "kanb"));
