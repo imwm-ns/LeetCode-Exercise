@@ -17,3 +17,4 @@ public class AverageSalaryWithoutMinAndMax {
         return (total / (double) (salary.length - 2)) + 1e-6;
     }
 }
+
