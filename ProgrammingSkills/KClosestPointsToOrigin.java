@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.PriorityQueue;
 
 public class KClosestPointsToOrigin {
     public static void main(String[] args) {
