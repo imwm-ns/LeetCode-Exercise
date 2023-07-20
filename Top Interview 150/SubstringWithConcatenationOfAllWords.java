@@ -19,7 +19,6 @@ public class SubstringWithConcatenationOfAllWords {
         for (String word : words) {
             freq.put(word, freq.getOrDefault(word, 0) + 1);
         }
-        System.out.println(freq);
 
         int length = words[0].length();
 
